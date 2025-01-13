@@ -1,4 +1,5 @@
 com.de-panther.webxr@0.22.1
+com.de-panther.webxr-input-profiles-loader@0.6.2
 com.de-panther.webxr-interactions@0.22.0
 com.unity.ai.navigation@2.0.5
 com.unity.collab-proxy@2.6.0
@@ -16,6 +17,7 @@ com.unity.visualscripting@1.9.5
 com.unity.xr.hands@1.5.0
 com.unity.xr.interaction.toolkit@3.0.7
 com.unity.xr.management@4.5.0
+com.unity.xr.mock-hmd@1.4.0-preview.2
 com.unity.xr.oculus@4.4.0
 com.unity.xr.openxr@1.13.2
 com.unity.modules.accessibility@1.0.0
